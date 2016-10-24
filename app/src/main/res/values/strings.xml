@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gamc</string>
+    <string name="action_settings">Settings</string>
+    <string name="status_screen_header">Статус</string>
+    <string name="status_screen_temp">Температура</string>
+    <string name="status_screen_humidity">Влажность</string>
+    <string name="status_screen_lux">Освещённость</string>
+    <string name="status_screen_water">Вода</string>
+    <string name="status_screen_day">День</string>
+    <string name="status_screen_date">Дата</string>
+    <string name="status_screen_time">Время</string>
+
+</resources>
