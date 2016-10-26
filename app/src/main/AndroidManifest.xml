@@ -19,7 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".settings"
-            android:label="@string/action_settings"></activity>
+            android:label="@string/action_settings">
+
+        </activity>
     </application>
 
 </manifest>

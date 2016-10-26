@@ -1,7 +1,10 @@
 <resources>
-    //Строковые константы на экране просомотра статуса
+
+    //общие строковые константы
     <string name="app_name">Gamc</string>
     <string name="action_settings">Настройки</string>
+    <string name="save_btn">Сохранить</string>
+    //Строковые константы на экране просмотра статуса
     <string name="status_screen_header">Статус</string>
     <string name="status_screen_temp">Температура</string>
     <string name="status_screen_humidity">Влажность</string>
@@ -10,9 +13,11 @@
     <string name="status_screen_day">День</string>
     <string name="status_screen_date">Дата</string>
     <string name="status_screen_time">Время</string>
-//Строковые константы на экране настроек
+    //строковые константы на экране изменения настроек
     <string name="settings_screen_refresh">Частота обновления статуса:</string>
     //единицы измерения
     <string name="minutes">мин</string>
+    <string name="lux">lux</string>
+    <string name="grad">°</string>
 
 </resources>
