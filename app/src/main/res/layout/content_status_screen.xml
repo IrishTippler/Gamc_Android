@@ -43,6 +43,12 @@
                 style="@style/ValsInRows"
                 android:text="23"
                 android:id="@+id/status_val_temp" />
+            <TextView
+                style="@style/ValsInRows"
+                android:text="@string/grad"
+                android:gravity="left"
+                android:id="@+id/status_measurment_grad" />
+
         </TableRow>
 
         <TableRow
@@ -55,8 +61,13 @@
                 android:id="@+id/status_label_humidity" />
             <TextView
                 style="@style/ValsInRows"
-                android:text="55%"
+                android:text="55"
                 android:id="@+id/status_val_humidity" />
+            <TextView
+                style="@style/ValsInRows"
+                android:text="%"
+                android:gravity="left"
+                android:id="@+id/status_measurment_percent" />
 
         </TableRow>
 
@@ -70,9 +81,13 @@
                 android:id="@+id/status_label_lux" />
             <TextView
                 style="@style/ValsInRows"
-                android:text="34000Lux"
+                android:text="34000"
                 android:id="@+id/status_val_lux" />
-
+            <TextView
+                style="@style/ValsInRows"
+                android:text="@string/lux"
+                android:gravity="left"
+                android:id="@+id/status_measurment_lux" />
         </TableRow>
 
         <TableRow
