@@ -13,6 +13,7 @@
     <string name="status_screen_day">День</string>
     <string name="status_screen_date">Дата</string>
     <string name="status_screen_time">Время</string>
+    <string name="status_screen_alarm_btn">Сообщения</string>
     //строковые константы на экране изменения настроек
     <string name="settings_screen_refresh">Частота обновления статуса:</string>
     //единицы измерения

@@ -46,25 +46,26 @@
 
         </TableRow>
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
     </TableLayout>
 
     <Button
-        android:text="@string/save_btn"
+    android:text="@string/save_btn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/settings_save_button"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="@string/status_screen_header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:id="@+id/settings_save_button"
+        android:id="@+id/settings_status_button"
+        android:layout_above="@+id/settings_save_button"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentRight="true"
