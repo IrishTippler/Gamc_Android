@@ -36,7 +36,7 @@
                 android:inputType="numberSigned"
                 android:ems="2"
                 android:id="@+id/editText"
-                android:gravity="right"/>
+                android:gravity="end"/>
             <TextView
                 style="@style/ValsInRows"
                 android:text="@string/minutes"

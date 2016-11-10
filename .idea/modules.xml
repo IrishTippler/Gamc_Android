@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gamc.iml" filepath="$PROJECT_DIR$/Gamc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GAMC.iml" filepath="$PROJECT_DIR$/GAMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

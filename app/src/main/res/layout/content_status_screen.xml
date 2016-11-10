@@ -47,7 +47,7 @@
             <TextView
                 style="@style/ValsInRows"
                 android:text="@string/grad"
-                android:gravity="left"
+                android:gravity="start"
                 android:id="@+id/status_measurment_grad" />
 
         </TableRow>
@@ -67,7 +67,7 @@
             <TextView
                 style="@style/ValsInRows"
                 android:text="%"
-                android:gravity="left"
+                android:gravity="start"
                 android:id="@+id/status_measurment_percent" />
 
         </TableRow>
@@ -87,7 +87,7 @@
             <TextView
                 style="@style/ValsInRows"
                 android:text="@string/lux"
-                android:gravity="left"
+                android:gravity="start"
                 android:id="@+id/status_measurment_lux" />
         </TableRow>
 
